@@ -14,6 +14,10 @@ Clone the repository and follow instructions provided in class to begin working 
 
 This sample project is intended for educational use only.
 
+## Author
+Ray Maldonado https://www.linkedin.com/in/rmaldonado
+
+
 ---
 Purdue University | Generative# purdue_generative_ai_class
 purdue_generative_ai_class
