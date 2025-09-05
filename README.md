@@ -1,0 +1,2 @@
+# purdue_generative_ai_class
+purdue_generative_ai_class
